@@ -1,5 +1,11 @@
-# What-is-PowerShell-
-What is PowerShell?
+# - - - - -PowerShell- - - - - 
+
+
+![glowing-blue-powershell-icon-on-260nw-2464400147](https://github.com/user-attachments/assets/86ab11d0-b94d-4801-9e0c-0729388982b0)
+
+
+
+
 What is PowerShell?
 PowerShell is a powerful task automation and configuration management framework from Microsoft. Initially designed for system administrators, PowerShell has evolved into a robust, open-source shell and scripting language built on .NET technology, providing a versatile platform for automating nearly any task within the Windows ecosystem. With PowerShell, IT professionals can streamline processes in environments such as Active Directory and Exchange, making it a popular tool among experienced Windows users.
 
@@ -55,6 +61,6 @@ In short, while CMD remains useful for basic tasks, PowerShell is a powerful and
 
 
 
-![glowing-blue-powershell-icon-on-260nw-2464400147](https://github.com/user-attachments/assets/86ab11d0-b94d-4801-9e0c-0729388982b0)
+
 
 
